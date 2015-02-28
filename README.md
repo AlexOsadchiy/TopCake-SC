@@ -1,4 +1,2 @@
 # Fox-SC
 Course Project
-<br>My Task Table https://docs.google.com/spreadsheets/d/1_1FKIZd0hYzj93d8Kdrj8t7cIbsB7OE7exYnFJtSy2o/edit?usp=sharing
-<br>Today, at 28th February I create GitHub account, Hurray!
